@@ -1,0 +1,7 @@
+1. Ok
+2. Sim, como foi feito e demonstrado, foi adicionado todos os vetores de caracteristicas em uma lista única
+ referênte as extrações da região que está sendo analisada. Essa técnica é utilizada para reduzir e 
+simplificar a análise do classificador
+3. Sim, pois estamos analisado a região parietal, para-ociptal, ociptal, referente a visão do indivíduo.
+ Caso for aplicado um calculo de média em regiões que não processam informações da visão, 
+podem ser considerados ruídos nos resultados.
